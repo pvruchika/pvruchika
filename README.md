@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="https://www.veed.io/view/1c645fe1-c986-45ca-9905-8d58cae90607">
+<div align="center" width="50">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br>
+</div>
 <h1 align="center">Hi 👋, I'm Vani Ruchika Pabba</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 

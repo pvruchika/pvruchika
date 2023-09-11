@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center" width="20%" height="20%">
-  <img src="https://github.com/pvruchika/pvruchika/blob/main/hellocoders.gif?raw=true" href="https://github.com/pvruchika" alt="Hello Coders" width="25%" height="25%" /> <br>
+<div align="center" width="100%" height="100%">
+  <img src="https://github.com/pvruchika/pvruchika/blob/main/hellocoderscropped.gif?raw=true" href="https://github.com/pvruchika" alt="Hello Coders" width="100%" height="100%" /> <br>
 </div>
 <!--<h1 align="center">Hi 👋, I'm Vani Ruchika Pabba</h1>-->
 <h3 align="center" padding="0">A passionate Full Stack Developer</h3>

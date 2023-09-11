@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center" width="70%" height="30%">
-  <img src="https://github.com/pvruchika/pvruchika/blob/main/hellocoders.gif?raw=true" href="https://github.com/pvruchika" alt="Hello Coders" width="70%" height="30%"/> <br>
+  <img src="https://github.com/pvruchika/pvruchika/blob/main/hellocoders.gif?raw=true" href="https://github.com/pvruchika" alt="Hello Coders" width="70%" height="100%"/> <br>
 </div>
 <!--<h1 align="center">Hi 👋, I'm Vani Ruchika Pabba</h1>-->
 <h3 align="center">A passionate Full Stack Developer</h3>

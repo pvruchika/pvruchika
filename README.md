@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://www.veed.io/view/1c645fe1-c986-45ca-9905-8d58cae90607
+<a href="https://www.veed.io/view/1c645fe1-c986-45ca-9905-8d58cae90607">
 <h1 align="center">Hi 👋, I'm Vani Ruchika Pabba</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 

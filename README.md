@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/pvruchika/pvruchika/blob/main/hellocoders.gif?raw=true" href="https://github.com/pvruchika" alt="Hello Coders" width="25%" height="25%" /> <br>
 </div>
 <!--<h1 align="center">Hi 👋, I'm Vani Ruchika Pabba</h1>-->
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center" padding="0">A passionate Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **my portfolio project**
 
